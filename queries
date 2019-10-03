@@ -1,0 +1,6 @@
+select * where {
+  <http://training.fairdata.solutions/DAV/home/LDP/gofair/> ?p ?o 
+}
+
+
+

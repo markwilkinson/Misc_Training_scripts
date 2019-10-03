@@ -1,0 +1,34 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl> a skos:ConceptScheme;
+  dct:description "This would be a longer description of the contents of this database"@en;
+  dct:title "Subset of pest parasitism on crop plants in Europe"@en;
+  skos:hasTopConcept <http://semanticscience.org/resource/SIO_010414>, <http://semanticscience.org/resource/SIO_010415>,
+    <http://www.disit.org/km4city/schema#AgricultureAndLivestock>, <http://www.disit.org/km4city/schema#Garden_and_agricultureGarden\u0020and\u0020Agriculture> .
+
+<http://www.disit.org/km4city/schema#AgricultureAndLivestock> a skos:Concept;
+  skos:definition "Related to agricultural activities"@en;
+  skos:inScheme <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl>;
+  skos:prefLabel "Agriculture and livestock"@en;
+  skos:topConceptOf <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl> .
+
+<http://www.disit.org/km4city/schema#Garden_and_agricultureGarden\u0020and\u0020Agriculture>
+  a skos:Concept;
+  skos:definition "related to growing things"@en;
+  skos:inScheme <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl>;
+  skos:prefLabel "Ag and Garden"@en;
+  skos:topConceptOf <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl> .
+
+<http://semanticscience.org/resource/SIO_010415> a skos:Concept;
+  skos:definition "Host contains a parasite"@en;
+  skos:inScheme <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl>;
+  skos:prefLabel "Host"@en;
+  skos:topConceptOf <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl> .
+
+<http://semanticscience.org/resource/SIO_010414> a skos:Concept;
+  skos:definition "a pathogen infects a host"@en;
+  skos:inScheme <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl>;
+  skos:prefLabel "pathogen"@en;
+  skos:topConceptOf <http://training.fairdata.solutions/DAV/home/LDP/fair/pest_scheme.ttl> .
