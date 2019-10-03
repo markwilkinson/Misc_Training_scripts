@@ -1,0 +1,4 @@
+ @prefix ldp: <http://www.w3.org/ns/ldp#> . 
+ @prefix dc: <http://purl.org/dc#> . 
+  <> a ldp:Container;
+    dc:author "Mark Wilkinson".
