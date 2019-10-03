@@ -1,0 +1,170 @@
+
+		Wed Apr 03 2019
+13:37:17 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+13:37:17   plain version 1.0.3230 from OpenLink Software
+13:37:17   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+13:37:17   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+13:37:17 { Loading plugin 2: Type `plain', file `im' in `../hosting'
+13:37:17   IM version 0.62 from OpenLink Software
+13:37:17   Support functions for Image Magick 6.9.9
+13:37:17   SUCCESS plugin 2: loaded from ../hosting/im.so }
+13:37:17 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+13:37:17   plain version 1.0.3230 from OpenLink Software
+13:37:17   Cartographic Projections support based on Frank Warmerdam's proj4 library
+13:37:17   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+13:37:17 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+13:37:17   ShapefileIO version 0.1virt71 from OpenLink Software
+13:37:17   Shapefile support based on Frank Warmerdam's Shapelib
+13:37:17   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+13:37:17 OpenLink Virtuoso Universal Server
+13:37:17 Version 07.20.3230-pthreads for Linux as of Nov  2 2018
+13:37:17 uses parts of OpenSSL, PCRE, Html Tidy
+13:37:17 Starting for DBA password change.
+13:37:17 SQL Optimizer enabled (max 1000 layouts)
+13:37:17 Compiler unit is timed at 0.000352 msec
+13:37:20 Checkpoint started
+13:37:20 Roll forward started
+13:37:20 Roll forward complete
+13:37:20 Checkpoint started
+13:37:20 Checkpoint finished, log reused
+13:37:20 Checkpoint started
+13:37:20 Checkpoint finished, log reused
+13:37:21 Checkpoint started
+13:37:21 Checkpoint finished, log reused
+13:37:21 Checkpoint started
+13:37:21 Checkpoint finished, log reused
+13:37:21 Checkpoint started
+13:37:21 Checkpoint finished, log reused
+13:37:21 PL LOG: Installing Virtuoso Conductor version 1.00.8785 (DAV)
+13:37:21 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8785/2018-11-02 11:55 (DAV)
+13:37:21 Checkpoint started
+13:37:21 Checkpoint finished, log reused
+13:37:23 Checkpoint started
+13:37:23 Checkpoint finished, log reused
+13:37:23 PL LOG: Installation with dependencies complete
+13:37:23 The DBA password is changed.
+13:37:23 The DAV password is changed.
+13:37:23 Checkpoint started
+13:37:23 Checkpoint finished, log reused
+13:37:23 Server exiting
+
+		Wed Apr 03 2019
+13:37:23 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+13:37:23   plain version 1.0.3230 from OpenLink Software
+13:37:23   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+13:37:23   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+13:37:23 { Loading plugin 2: Type `plain', file `im' in `../hosting'
+13:37:23   IM version 0.62 from OpenLink Software
+13:37:23   Support functions for Image Magick 6.9.9
+13:37:23   SUCCESS plugin 2: loaded from ../hosting/im.so }
+13:37:23 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+13:37:23   plain version 1.0.3230 from OpenLink Software
+13:37:23   Cartographic Projections support based on Frank Warmerdam's proj4 library
+13:37:23   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+13:37:23 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+13:37:23   ShapefileIO version 0.1virt71 from OpenLink Software
+13:37:23   Shapefile support based on Frank Warmerdam's Shapelib
+13:37:23   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+13:37:23 OpenLink Virtuoso Universal Server
+13:37:23 Version 07.20.3230-pthreads for Linux as of Nov  2 2018
+13:37:23 uses parts of OpenSSL, PCRE, Html Tidy
+13:37:23 Database version 3126
+13:37:23 SQL Optimizer enabled (max 1000 layouts)
+13:37:24 Compiler unit is timed at 0.000107 msec
+13:37:25 Roll forward started
+13:37:25 Roll forward complete
+13:37:25 PL LOG: Initializing DB.DBA.SYS_PROJ4_SRIDS
+13:37:25 PL LOG: ... checking for data files in "/usr/share/proj"
+13:37:25 PL LOG: DB.DBA.SYS_PROJ4_SRIDS now contains 8650 spatial reference systems
+13:37:25 Checkpoint started
+13:37:25 Checkpoint finished, log reused
+13:37:27 HTTP/WebDAV server online at 8890
+13:37:27 Server online at 1111 (pid 1)
+
+		Thu Apr 04 2019
+06:36:43 Checkpoint started
+06:36:43 Checkpoint finished, log reused
+06:55:26 Server received signal 2
+06:55:26 Initiating normal shutdown
+06:55:26 Checkpoint started
+06:55:26 Checkpoint finished, log reused
+06:55:26 Server shutdown complete
+
+		Thu Apr 04 2019
+07:00:00 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+07:00:00   plain version 1.0.3230 from OpenLink Software
+07:00:00   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+07:00:00   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+07:00:00 { Loading plugin 2: Type `plain', file `im' in `../hosting'
+07:00:00   IM version 0.62 from OpenLink Software
+07:00:00   Support functions for Image Magick 6.9.9
+07:00:00   SUCCESS plugin 2: loaded from ../hosting/im.so }
+07:00:00 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+07:00:00   plain version 1.0.3230 from OpenLink Software
+07:00:00   Cartographic Projections support based on Frank Warmerdam's proj4 library
+07:00:00   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+07:00:00 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+07:00:00   ShapefileIO version 0.1virt71 from OpenLink Software
+07:00:00   Shapefile support based on Frank Warmerdam's Shapelib
+07:00:00   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+07:00:00 OpenLink Virtuoso Universal Server
+07:00:00 Version 07.20.3230-pthreads for Linux as of Nov  2 2018
+07:00:00 uses parts of OpenSSL, PCRE, Html Tidy
+07:00:00 Database version 3126
+07:00:00 SQL Optimizer enabled (max 1000 layouts)
+07:00:01 Compiler unit is timed at 0.000121 msec
+07:00:02 Roll forward started
+07:00:02 Roll forward complete
+07:00:02 Checkpoint started
+07:00:02 Checkpoint finished, log reused
+07:00:02 HTTP/WebDAV server online at 8890
+07:00:02 Server online at 1111 (pid 1)
+07:04:04 Server received signal 15
+07:04:04 Initiating quick shutdown
+07:04:04 Server shutdown complete
+
+		Thu Apr 04 2019
+07:07:06 { Loading plugin 1: Type `plain', file `geos' in `../hosting'
+07:07:06   plain version 1.0.3230 from OpenLink Software
+07:07:06   GEOS plugin based on Geometry Engine Open Source library from Open Source Geospatial Foundation
+07:07:06   SUCCESS plugin 1: loaded from ../hosting/geos.so }
+07:07:06 { Loading plugin 2: Type `plain', file `im' in `../hosting'
+07:07:06   IM version 0.62 from OpenLink Software
+07:07:06   Support functions for Image Magick 6.9.9
+07:07:06   SUCCESS plugin 2: loaded from ../hosting/im.so }
+07:07:06 { Loading plugin 3: Type `plain', file `proj4' in `../hosting'
+07:07:06   plain version 1.0.3230 from OpenLink Software
+07:07:06   Cartographic Projections support based on Frank Warmerdam's proj4 library
+07:07:06   SUCCESS plugin 3: loaded from ../hosting/proj4.so }
+07:07:06 { Loading plugin 4: Type `plain', file `shapefileio' in `../hosting'
+07:07:06   ShapefileIO version 0.1virt71 from OpenLink Software
+07:07:06   Shapefile support based on Frank Warmerdam's Shapelib
+07:07:06   SUCCESS plugin 4: loaded from ../hosting/shapefileio.so }
+07:07:06 OpenLink Virtuoso Universal Server
+07:07:06 Version 07.20.3230-pthreads for Linux as of Nov  2 2018
+07:07:06 uses parts of OpenSSL, PCRE, Html Tidy
+07:07:06 Database version 3126
+07:07:06 SQL Optimizer enabled (max 1000 layouts)
+07:07:07 Compiler unit is timed at 0.000106 msec
+07:07:07 Roll forward started
+07:07:07 Roll forward complete
+07:07:08 Checkpoint started
+07:07:08 Checkpoint finished, log reused
+07:07:08 HTTP/WebDAV server online at 8890
+07:07:08 Server online at 1111 (pid 1)
+07:09:06 Incorrect login for dba from IP [127.0.0.1]
+07:13:50 PL LOG: Installing ODS Framework version 1.89.47/2018-12-10 20:23 
+07:13:50 Checkpoint started
+07:13:50 Checkpoint finished, log reused
+07:13:56 Checkpoint started
+07:13:56 Checkpoint finished, log reused
+07:14:10 PL LOG: Installing ODS Briefcase version 1.21.68/2018-12-10 20:25 
+07:14:10 Checkpoint started
+07:14:10 Checkpoint finished, log reused
+07:14:11 Checkpoint started
+07:14:11 Checkpoint finished, log reused
+07:34:14 Server received signal 2
+07:34:14 Initiating normal shutdown
+07:34:14 Checkpoint started
+07:34:14 Checkpoint finished, log reused
+07:34:14 Server shutdown complete
