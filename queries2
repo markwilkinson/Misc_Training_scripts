@@ -6,7 +6,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 select ?host ?label
 
 where {
-graph <http://training.fairdata.solutions/DAV/home/LDP/gofair/> {
+graph ?g {
   ?obs    a                   sio:measuring .
   ?obs    sio:has-participant ?infect .
   ?infect a                   efo:EFO_0001067 .
@@ -27,8 +27,8 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 select *
 where {
 
-  # restrict your search to ONLY our course (the named graph of our course)
-  graph <http://training.fairdata.solutions/DAV/home/LDP/gofair/> {
+  
+  graph  ?g {
 
       select * where {
            # within the course, every record is a named graph
@@ -42,7 +42,7 @@ where {
            #    ?infect  sio:has-participant  ?pathogen .
            #    ?pathogen a  sio:pathogen .
            #}
-           graph <http://training.fairdata.solutions/DAV/home/LDP/gofair/species_290307251> {
+           graph <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/species_290307251> {
                   ?s ?p ?o
            }
        }
@@ -60,8 +60,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 select *
 where {
 
-  # restrict your search to ONLY our course (the named graph of our course)
-  graph <http://training.fairdata.solutions/DAV/home/LDP/gofair/> {
+  graph ?g {
 
       select * where {
             #within the course, every record is a named graph
@@ -73,63 +72,33 @@ where {
                ?host rdfs:label ?hostname .
                ?infect  sio:has-participant  ?pathogen .
                ?pathogen a  sio:pathogen .
-           
-               #?pathogen ?p ?o
+          
            }
        }
     }
 }
 
 
+PREFIX ldp: <http://www.w3.org/ns/ldp#>
 PREFIX efo: <http://www.ebi.ac.uk/efo/efo.owl#>
 PREFIX sio: <http://semanticscience.org/resource/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-select *
+select distinct ?hostname ?pathname
 where {
-
-  # restrict your search to ONLY our course (the named graph of our course)
-#  graph <http://training.fairdata.solutions/DAV/home/LDP/gofair/> {
-
-      select ?hostname ?pathname where {
             #within the course, every record is a named graph
-           graph ?g { 
+           graph ?observationgraph { 
                ?o a sio:measuring .  # ?o would be ".../obs_12345#observation"
                ?o sio:has-participant ?infect .
                ?infect  sio:has-participant  ?host .
                ?host a sio:host .
                ?host rdfs:label ?hostname .
                ?infect  sio:has-participant  ?pathogen .
-               ?pathogen a  sio:pathogen .
-               #?pathogen ?p ?o .
-           }
-           graph ?pathogen {
-                 ?pathogen rdfs:label ?pathname
            }
 
-       }
-#    }
+           graph ?pathogengraph {
+               ?pathogen a sio:pathogen .
+               ?pathogen rdfs:label ?pathname
+           }
 }
 
-
-
-PREFIX efo: <http://www.ebi.ac.uk/efo/efo.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-
-select ?hostname ?pathname
-where {
-        #within the course, every record is a named graph
-        graph ?ghost { 
-            ?o a sio:measuring .  # ?o would be ".../obs_12345
-            ?o sio:has-participant ?infect .
-            ?infect  sio:has-participant  ?host .
-            ?host a sio:host .
-            ?host rdfs:label ?hostname .
-            ?infect  sio:has-participant  ?pathogen .
-            ?pathogen a  sio:pathogen .
-        }
-        graph ?pathogen {
-              ?pathogen rdfs:label ?pathname
-        }
-}

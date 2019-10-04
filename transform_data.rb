@@ -36,19 +36,19 @@ count = 0
 obs.each do |line|
   (id, cropC, cropN, species, countryC, countryN, year, duration, long, lat, comments) = line.split("\t")
   count += 1
-  break if count > 800
+  break if count > 500
   g = RDF::Graph.new()
 
   observation = "obs_#{id}"    # obs_12345657
   species = "species_#{species}"  # species_3456789
   $stderr.puts "#{count} #{observation} #{species}"
-  triplify(my["#{observation}"], rdf.type, sio.measuring, g)
-  triplify(my["#{observation}"], rdfs.label, comments, g)
-  triplify(my["#{observation}"], sio["is-located-in"], wiki[countryC], g)
-  triplify(my["#{observation}"], sio["measured-at"], my["#{observation}#time"], g)
-  triplify(my["#{observation}"], sio["has-participant"], my["#{observation}#infection"], g)
+  triplify(my["#{observation}#obs"], rdf.type, sio.measuring, g)
+  triplify(my["#{observation}#obs"], rdfs.label, comments, g)
+  triplify(my["#{observation}#obs"], sio["is-located-in"], wiki[countryC], g)
+  triplify(my["#{observation}#obs"], sio["measured-at"], my["#{observation}#time"], g)
+  triplify(my["#{observation}#obs"], sio["has-participant"], my["#{observation}#infection"], g)
   
-  triplify(my["#{observation}#location"], sio["is-location-of"], my["#{observation}"], g)
+  triplify(my["#{observation}#location"], sio["is-location-of"], my["#{observation}#obs"], g)
   triplify(my["#{observation}#location"], rdf.type, geo.Point, g)
   triplify(my["#{observation}#location"], geo.lat, lat, g)
   triplify(my["#{observation}#location"], geo.long, long, g)
@@ -63,13 +63,13 @@ obs.each do |line|
   
   triplify(my["#{observation}#infection"], rdf.type, efo["EFO_0001067"], g)
   triplify(efo["EFO_0001067"], rdfs.label, "Parasitic Infection", g)
-  triplify(my["#{observation}#infection"], sio["has-participant"], my["#{species}"], g)
+  triplify(my["#{observation}#infection"], sio["has-participant"], my["#{species}#species"], g)
   triplify(my["#{observation}#infection"], sio["has-participant"], food[cropC], g)
   
   triplify(food[cropC], rdfs.label, cropN, g)
   triplify(food[cropC], rdf.type, sio.host, g)
 
-  triplify(my["#{species}"], rdf.type, sio.pathogen, g)
+  triplify(my["#{species}#species"], rdf.type, sio.pathogen, g)
 
   newresource = top.add_rdf_resource(:slug => observation)
   newresource.add_metadata(g.map {|s| [s.subject.to_s, s.predicate.to_s, s.object.to_s]}) 
@@ -84,14 +84,14 @@ spe.each do |line|
   next if gbif.empty? or name.empty? or species.empty?
   species = "species_#{species}"  # species_3456789
   count += 1
-  break if count > 800
+  break if count > 500
   $stderr.puts "#{count} #{species} SPECIES TABLE"
 
   g = RDF::Graph.new()
-  triplify(my["#{species}"], rdf.type, sio.pathogen, g)
-  triplify(my["#{species}"], rdfs.label, name, g)
-  triplify(my["#{species}"], sio["has-identifier"], lsid[gbif], g)
-  triplify(my["#{species}"], rdf.type, sio.pathogen, g)
+  triplify(my["#{species}#species"], rdf.type, sio.pathogen, g)
+  triplify(my["#{species}#species"], rdfs.label, name, g)
+  triplify(my["#{species}#species"], sio["has-identifier"], lsid[gbif], g)
+  triplify(my["#{species}#species"], rdf.type, sio.pathogen, g)
   triplify(lsid["#{gbif}"], rdfs.label, name, g)
   triplify(lsid["#{gbif}"], rdf.type, sio.identifier, g)
 
