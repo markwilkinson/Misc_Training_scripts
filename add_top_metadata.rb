@@ -7,7 +7,7 @@ dcat = RDF::Vocabulary.new("http://www.w3.org/ns/dcat#")
 dc = RDF::Vocabulary.new("http://purl.org/dc/elements/1.1/")
 dct = RDF::Vocabulary.new("http://purl.org/dc/terms/")
 fund = RDF::Vocabulary.new("http://vocab.ox.ac.uk/projectfunding#")
-skos =  RDF::Vocabulary.new("http://www.w3.org/2004/02/skos/core#")
+#skos =  RDF::Vocabulary.new("http://www.w3.org/2004/02/skos/core#")
 
 
 client = LDP::LDPClient.new({
@@ -59,12 +59,12 @@ dataset = client.toplevel_container
 	triplify(dset, dcat.landingPage, "https://zenodo.org/record/285525", g)
 
 	# TO FILL IN ON THE DAY
-	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)
-	triplify("ONTOLOGY TERM HERE", skos.inScheme, "http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl", g)
-	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)
-	triplify("ONTOLOGY TERM HERE", skos.inScheme, "http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl", g)
-	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)
-	triplify("ONTOLOGY TERM HERE", skos.inScheme, "http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl", g)
+#	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)
+#	triplify("ONTOLOGY TERM HERE", skos.inScheme, "http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl", g)
+#	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)
+#	triplify("ONTOLOGY TERM HERE", skos.inScheme, "http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl", g)
+#	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)
+#	triplify("ONTOLOGY TERM HERE", skos.inScheme, "http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl", g)
 
 
   dataset.add_metadata(g.map {|s| [s.subject.to_s, s.predicate.to_s, s.object.to_s]}) 

@@ -1,0 +1,28 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ldp:	<http://www.w3.org/ns/ldp#> .
+@prefix ns3:	<http://purl.org/dc/dcmitype/> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix ns6:	<http://vocab.ox.ac.uk/projectfunding#> .
+@prefix ns7:	<http://www.w3.org/ns/dcat#> .
+@prefix ns8:	<https://ring.ciard.net/> .
+@prefix ns9:	<http://purl.org/dc/terms/> .
+@prefix ns10:	<http://data.europa.eu/euodp/kos/licence/> .
+@prefix ns11:	<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/> .
+
+rdfs:Resource
+	rdf:type	rdfs:Class .
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/285525/>
+	rdf:type	ldp:BasicContainer , ldp:Container , ns3:Distribution .
+ns11:
+	rdf:type	ldp:BasicContainer , ldp:Container , ns3:Dataset ;
+	dc:title	"A subset of the database of bio-ecological information on non-target arthropod species"@en ;
+	dc:identifier	"10.5281/zenodo.285525"^^xsd:float , "10.5281/zenodo.285525"@en ;
+	ldp:contains	<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/285525/> ;
+	ns6:hasPrincipalInvestigator	"Romeis, J\u00F6rg"@en , "Riedel, Judith"@en , "Meissle, Michael"@en ;
+	ns7:landingPage	ns8:update-and-expansion-database-bio-ecological-information-non-target-arthropod-species , <https://zenodo.org/record/285525> ;
+	ns7:theme	<http://training.fairdata.solutions/DAV/home/LDP/fair/SKOS/pest_scheme.ttl> ;
+	dc:creator	<http://wilkinsonlab.info> ;
+	ns9:license	ns10:EuropeanCommission ;
+	ns9:title	"A subset of the database of bio-ecological information on non-target arthropod species"@en .
