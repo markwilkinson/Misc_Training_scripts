@@ -24,7 +24,9 @@ client = LDP::LDPClient.new({
 	:password => "gofair"})
 top = client.toplevel_container
 
-#abort
+puts "creating DCAT Distribution 285525"
+dcat_distribution = top.add_container(:slug => "285525")  # 285525 is the zenodo record id
+
 
 
 obs = File.open("SpeciesAbundancePub2015.tsv")
@@ -71,11 +73,9 @@ obs.each do |line|
 
   triplify(my["#{species}#species"], rdf.type, sio.pathogen, g)
 
-  newresource = top.add_rdf_resource(:slug => observation)
+  newresource = dcat_distribution.add_rdf_resource(:slug => observation)
   newresource.add_metadata(g.map {|s| [s.subject.to_s, s.predicate.to_s, s.object.to_s]}) 
  
-  #g.each {|s| puts s.subject.to_s + "\t" + s.predicate.to_s + "\t" + s.object.to_s}
-  #break
 end
 
 count = 0
@@ -95,11 +95,10 @@ spe.each do |line|
   triplify(lsid["#{gbif}"], rdfs.label, name, g)
   triplify(lsid["#{gbif}"], rdf.type, sio.identifier, g)
 
-  newresource = top.add_rdf_resource(:slug => species)
+  newresource = dcat_distribution.add_rdf_resource(:slug => species)
   newresource.add_metadata(g.map {|s| [s.subject.to_s, s.predicate.to_s, s.object.to_s]}) 
  
-  #g.each {|s| puts s.subject.to_s + "\t" + s.predicate.to_s + "\t" + s.object.to_s}
-  #break
+
 end
 
 
