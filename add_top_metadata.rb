@@ -7,7 +7,7 @@ dcat = RDF::Vocabulary.new("http://www.w3.org/ns/dcat#")
 dc = RDF::Vocabulary.new("http://purl.org/dc/elements/1.1/")
 dct = RDF::Vocabulary.new("http://purl.org/dc/terms/")
 fund = RDF::Vocabulary.new("http://vocab.ox.ac.uk/projectfunding#")
-#skos =  RDF::Vocabulary.new("http://www.w3.org/2004/02/skos/core#")
+skos =  RDF::Vocabulary.new("http://www.w3.org/2004/02/skos/core#")
 
 
 client = LDP::LDPClient.new({
@@ -56,7 +56,9 @@ dataset = client.toplevel_container
 	
 	triplify(dset, dcat.landingPage, "https://ring.ciard.net/update-and-expansion-database-bio-ecological-information-non-target-arthropod-species", g)
 	triplify(dset, dcat.landingPage, "https://zenodo.org/record/285525", g)
-	triplify(dset, dcat.landingPage, "https://zenodo.org/record/285525", g)
+	triplify(dset, dcat.landingPage, "http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/", g)
+	
+	triplify(dset, dcat.distribution, dist, g)  #  LOOK!!!!
 
 	# TO FILL IN ON THE DAY
 #	triplify(dset, dcat.theme, "ONTOLOGY TERM HERE", g)

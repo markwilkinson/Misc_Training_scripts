@@ -3,7 +3,7 @@ PREFIX efo: <http://www.ebi.ac.uk/efo/efo.owl#>
 PREFIX sio: <http://semanticscience.org/resource/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-select ?host ?label
+select distinct ?host ?label
 
 where {
 graph ?g {
@@ -16,39 +16,6 @@ graph ?g {
 
       } 
 }
-
-
-
-
-PREFIX efo: <http://www.ebi.ac.uk/efo/efo.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-
-select *
-where {
-
-  
-  graph  ?g {
-
-      select * where {
-           # within the course, every record is a named graph
-           #graph ?g { 
-           #    ?o a sio:measuring .  # ?o would be ".../obs_12345#observation"
-           #    ?o sio:has-participant ?infect .
-           #    ?infect  sio:has-participant  ?host .
-           #    ?host a sio:host .
-           #    ?host rdfs:label ?hostname .
-
-           #    ?infect  sio:has-participant  ?pathogen .
-           #    ?pathogen a  sio:pathogen .
-           #}
-           graph <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/species_290307251> {
-                  ?s ?p ?o
-           }
-       }
-    }
-}
-
 
 
 
