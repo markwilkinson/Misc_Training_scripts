@@ -16,8 +16,9 @@ lsid = RDF::Vocabulary.new("http://www.eu-nomen.eu/portal/taxon.php?GUID=")
 food = RDF::Vocabulary.new("http://data.food.gov.uk/codes/foodtype/hierarchy/facet/source/_")
 wiki = RDF::Vocabulary.new("https://en.wikipedia.org/wiki/ISO_3166-2:")
 
-
-my =   RDF::Vocabulary.new("http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/")
+#http://w3id.org/FAIR_Training_LDP/grazing/
+#my =   RDF::Vocabulary.new("http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/")
+my =   RDF::Vocabulary.new("http://w3id.org/FAIR_Training_LDP/grazing/")
 client = LDP::LDPClient.new({
 	:endpoint => "http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/",
 	:username => "gofair",
