@@ -69,3 +69,37 @@ where {
            }
 }
 
+
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX uniprot: <http://purl.uniprot.org/core/>
+PREFIX up: <http://users.ugent.be/~tdenies/up/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX food: <http://data.food.gov.uk/codes/foodtype/hierarchy/facet/source/>
+PREFIX reg: <http://purl.org/linked-data/registry#>
+
+SELECT *  #?langual ?def ?name ?taxon ?host ?picture
+WHERE {
+
+    service <http://training.fairdata.solutions/sparql> {
+    select distinct ?host where {
+     ?host a sio:host .
+	  }
+  	}
+  
+  service <https://data.food.gov.uk/codes/system/query> {
+    ?host  <http://purl.org/linked-data/version#currentVersion>   ?fv .
+    ?fv reg:definition ?bn .
+    ?bn reg:entity ?food .
+    OPTIONAL {?food <http://data.food.gov.uk/codes/foodtype/def/terms/langualCode> ?langual }
+    ?food skos:definition ?def .
+    ?food <http://data.food.gov.uk/codes/foodtype/def/terms/scientificName> ?name 
+  }
+  
+  service <https://sparql.uniprot.org/sparql> {
+    ?taxon uniprot:otherName ?name .
+    ?taxon foaf:depiction ?picture
+  }
+  
+}
+
