@@ -1,0 +1,67 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> a skos:ConceptScheme;
+  dct:description "SKOS Concept Scheme for the Observations of plant pest grazing in Europe dataset"@en;
+  dct:title "Observations of plant pest grazing in Europe, 2000-2003"@en;
+  skos:hasTopConcept <http://id.agrisemantics.org/gacs/C86>, <http://opendata.inra.fr/anaeeThes/c3_2355>,
+    <http://opendata.inra.fr/anaeeThes/c3_2520>, <http://opendata.inra.fr/anaeeThes/c3_2598>,
+    <http://purl.obolibrary.org/obo/GAZ_00000464>, <http://semanticscience.org/resource/host>,
+    <http://semanticscience.org/resource/pathogen>, <http://www.disit.org/km4city/schema#Crop_production>,
+    <http://www.yso.fi/onto/afo/p845> .
+
+<http://www.yso.fi/onto/afo/p845> a skos:Concept;
+  skos:definition "A crop of some plant species with production value"@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "crop"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://opendata.inra.fr/anaeeThes/c3_2598> a skos:Concept;
+  skos:definition "A crop of some plant species"@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "crop"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://opendata.inra.fr/anaeeThes/c3_2355> a skos:Concept;
+  skos:definition "any organism that damages crops injures or irritates livestock or man or reduces the fertility of land"@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "pest"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://opendata.inra.fr/anaeeThes/c3_2520> a skos:Concept;
+  skos:definition "species interactions"@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "biotic interactions"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://purl.obolibrary.org/obo/GAZ_00000464> a skos:Concept;
+  skos:definition "The continent of Europe"@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "Europe"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://www.disit.org/km4city/schema#Crop_production> a skos:Concept;
+  skos:definition "The instances of this class represent, among all the business activities, certain cultivation activities."@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "Crop Production"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://semanticscience.org/resource/pathogen> a skos:Concept;
+  skos:definition "A pathogen or infectious agent is a microorganism that causes disease in its host."@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "Pathogen"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://semanticscience.org/resource/host> a skos:Concept;
+  skos:definition "A host is an organism that harbors a parasite, or a mutual or commensal symbiont, typically providing nourishment and shelter."@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "Host"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+
+<http://id.agrisemantics.org/gacs/C86> a skos:Concept;
+  skos:definition "Parasites"@en;
+  skos:inScheme <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf>;
+  skos:prefLabel "Parasites"@en;
+  skos:topConceptOf <https://w3id.org/FAIR_Training_LDP/DAV/home/LDP/Training/grazing/pest_skos.rdf> .
+

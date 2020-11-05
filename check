@@ -1,0 +1,2024 @@
+<!DOCTYPE html>
+<html lang="sv" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #2b5c83} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-9368200-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<link rel="canonical" href="https://snd.gu.se/sv/catalogue/study/snd1105/001" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/png" />
+
+    <title>Svenskt historiskt fenologidataset | Svensk Nationell Datatjänst</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_oaItz8Jrofz0NICqApXiOcjz6uM17R_6DbDbQw1fhzk.css?q1d961" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_CGsDv-l__Q7-LLbchHSvfUplYCq6vZ5Vn_MyiYvQTEA.css?q1d961" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Hoppa till huvudinnehåll
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="page-wrap">
+  <header class="header" role="banner">
+    <div class="header__top">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="header__logo">
+                <div>
+    
+<div id="block-snd-branding" class="block">
+  
+    
+        <a href="/sv" title="Hem" rel="home">
+      <img src="/themes/snd/logo--sv.svg" alt="Hem" />
+    </a>
+      
+</div>
+
+  </div>
+
+            </div>
+          </div>
+          <div class="col header__links">
+            <ol class="header-links-list">
+              <li class="header-links-list__item">
+                <a href="https://snd.gu.se/sv/search/content" id="header-search-link">Sök på siten</a>
+              </li>
+              <li class="header-links-list__item">
+                <ul class="links"><li><a href="/en/catalogue/study/snd1105/001" class="language-link" hreflang="en">In English</a></li></ul>
+              </li>
+            </ol>
+            <a href="https://www.coretrustseal.org/wp-content/uploads/2018/02/Swedish-National-Data-Service.pdf" target="_blank" rel="noopener" id="datasealofapproval">
+              <img alt="DSA" src="/themes/snd/images/CoreTrustSeal_logo_50.png">
+            </a>
+          </div>
+          <form method="get" id="header-search-box" action="/sv/search/content" class="form-group">
+            <input name="search" class="form-control" type="text" placeholder="Sök på snd.gu.se..">
+            <button type="submit" class="btn btn-primary" title="Sök">
+              <span class="glyphicons glyphicons-search"></span>
+            </button>
+          </form>
+          <a class="snd_cart" href="/sv/catalogue/order-data" title="Beställ studier">
+            <div>
+              <img src="/themes/snd/images/cart-icon-blue.png" alt="cart-icon"><span></span>
+            </div>
+          </a>
+          <div class="snd_cart_info">
+            <div class="snd_cart_info__arrow"></div>
+            En studie har lagts till i din beställning.
+          </div>
+        </div>
+
+        <div id="user-menu">
+                      <a href="/sv/user/login">Logga in</a>
+                  </div>
+      </div>
+    </div>
+
+    <div class="mobile-header">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-4">
+            <div class="mobile-header-toggle-wrap mobile-header-toggle-wrap--search">
+              <div class="mobile-header-toggle mobile-header-toggle--icon mobile-header-toggle--search">
+                <a href="https://snd.gu.se/sv/search/content">Sök</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="mobile-header-toggle-wrap mobile-header-toggle-wrap--navigation">
+              <div class="mobile-header-toggle mobile-header-toggle--icon mobile-header-toggle--navigation js-navigation-toggle">
+                <div class="mobile-header-toggle__text">Meny</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="main-menu">
+      <div class="main-menu__bs-container">
+        <div class="main-menu__bs-row">
+          <div class="main-menu__bs-col">
+            <div class="navigation-content">
+                <div>
+    <nav role="navigation" aria-labelledby="block-main-menu-menu" id="block-main-menu" class="navigation navigation--main">
+            
+  <h2 class="visually-hidden" id="block-main-menu-menu">Huvudmeny</h2>
+  
+
+        
+              <ul menu_theme_suggestion="menu__main__header" language="sv" id="block-main-menu" class="navigation__menu-tree">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/catalogue/search" title="" class="navigation__link" data-drupal-link-system-path="catalogue/search">Sök och beställ data</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/catalogue/order-data" title="" class="navigation__link" data-drupal-link-system-path="catalogue/order-data">Beställ data</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/s%C3%B6k-och-best%C3%A4ll-data/samlingar/specialsamlingar" title="" class="navigation__link" data-drupal-link-system-path="node/1072">Specialsamlingar</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/vivill" title="" class="navigation__link" data-drupal-link-system-path="vivill">Svenska partiprogram och valmanifest</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/vivill/party" title="" class="navigation__link" data-drupal-link-system-path="vivill/party">Lista alla partier</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/vivill/by-year" title="" class="navigation__link" data-drupal-link-system-path="vivill/by-year">Lista alla dokument efter årtal</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/vivill/spel" title="" class="navigation__link" data-drupal-link-system-path="vivill/spel">Gissa parti</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/sok-och-bestall-data/specialsamlingar/svenska-partiprogram-och-valmanifest/om-samlingen-svenska" title="" class="navigation__link" data-drupal-link-system-path="node/1078">Om samlingen</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/gallup" class="navigation__link" title="" data-drupal-link-system-path="gallup">Gallup 1942 till 1954</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/gallup/om-projektet" class="navigation__link" title="" data-drupal-link-system-path="node/813">Om projektet</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="http://www.gallup.com/corporate/178136/george-gallup.aspx" title="" class="navigation__link">Om George H. Gallup</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/gallup/artal-for-rapporterna" class="navigation__link" title="" data-drupal-link-system-path="node/815">Årtal för rapporterna</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="http://analysis.snd.gu.se/" title="" class="navigation__link">SND Analys online</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/sok-och-bestall-data/internationella-data" title="" class="navigation__link" data-drupal-link-system-path="node/282">Internationella data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/catalogue/qav" class="navigation__link" title="" data-drupal-link-system-path="catalogue/qav">Frågor &amp; variabler</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-lamna-in-data/tillganglighetsnivaer" class="navigation__link" title="" data-drupal-link-system-path="node/513">Tillgänglighetsnivåer</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/sok-och-bestall-data/dig-som-ar-student" class="navigation__link" title="" data-drupal-link-system-path="node/1637">För dig som är student</a>
+        
+              </li>
+        </ul>
+  
+        
+                                                                    
+  <div class="navigation__dropdown">
+    <div class="row">
+      <div class="col-3">
+                            
+          <div class="navigation__dropdown-title">
+            <a href="/sv/catalogue/order-data" title="Beställ data" data-drupal-link-system-path="catalogue/order-data">Beställ data</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/s%C3%B6k-och-best%C3%A4ll-data/samlingar/specialsamlingar" title="Specialsamlingar" data-drupal-link-system-path="node/1072">Specialsamlingar</a>
+          </div>
+
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/vivill" title="Svenska partiprogram och valmanifest sökbart" data-drupal-link-system-path="vivill">Svenska partiprogram och valmanifest</a>
+            </div>
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="/sv/gallup" data-drupal-link-system-path="gallup">Gallup 1942 till 1954</a>
+            </div>
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="http://analysis.snd.gu.se/" title="Ladda hem data direkt">SND Analys online</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/sok-och-bestall-data/internationella-data" title="Internationella data" data-drupal-link-system-path="node/282">Internationella data</a>
+          </div>
+
+                                                  </div><div class="col-3">
+                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/catalogue/qav" data-drupal-link-system-path="catalogue/qav">Frågor &amp; variabler</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/beskriv-och-lamna-in-data/tillganglighetsnivaer" data-drupal-link-system-path="node/513">Tillgänglighetsnivåer</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/sok-och-bestall-data/dig-som-ar-student" data-drupal-link-system-path="node/1637">För dig som är student</a>
+          </div>
+
+                        </div>
+    </div>
+  </div>
+
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/hantera-data" class="navigation__link" title="" data-drupal-link-system-path="node/920">Hantera data</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen" class="navigation__link" title="" data-drupal-link-system-path="node/915">Data i forskningsprocessen</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/datahanteringsplan" class="navigation__link" title="" data-drupal-link-system-path="node/918">Datahanteringsplan</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/datahanteringsplan/att-skriva-datahanteringsplan/checklista-datahanteringsplan" class="navigation__link" title="" data-drupal-link-system-path="node/1144">Checklista för datahanteringsplan</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/datahanteringsplan/projektans%C3%B6kan/administrativa-uppgifter" class="navigation__link" title="" data-drupal-link-system-path="node/1038">Administrativa uppgifter</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/datahanteringsplan/projektansokan/juridiska-och-forskningsetiska-aspekter" class="navigation__link" title="" data-drupal-link-system-path="node/921">Skydda data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/datahanteringsplan/projektansokan/insamling-produktion-data" class="navigation__link" title="" data-drupal-link-system-path="node/919">Samla in/producera data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/datahanteringsplan/projektans%C3%B6kan/dokumentation-och-metadata" class="navigation__link" title="" data-drupal-link-system-path="node/1037">Dokumentera data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/datahanteringsplan/organisera-data" class="navigation__link" title="" data-drupal-link-system-path="node/922">Organisera data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/datahanteringsplan/kostnader-hantering-av-data" class="navigation__link" title="" data-drupal-link-system-path="node/924">Kostnader</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/datahanteringsplan/bevara-och-tillgangliggora-data" class="navigation__link" title="" data-drupal-link-system-path="node/1039">Bevara och tillgängliggöra data</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/datainsamlingsfasen" class="navigation__link" title="" data-drupal-link-system-path="node/946">Datainsamlingsfasen</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/dataanalysfasen" class="navigation__link" title="" data-drupal-link-system-path="node/949">Dataanalysfasen</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/fardigstalla-och-bevara-data" class="navigation__link" title="" data-drupal-link-system-path="node/951">Färdigställa och bevara data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/data-i-forskningsprocessen/tillgangliggora-data" class="navigation__link" title="" data-drupal-link-system-path="node/952">Tillgängliggöra data</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/hantera-data/guider" class="navigation__link" title="" data-drupal-link-system-path="node/1189">Guider</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/guider/filformat" class="navigation__link" title="" data-drupal-link-system-path="node/1040">Rekommenderade filformat</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/hantera-data/utbildning" class="navigation__link" title="" data-drupal-link-system-path="node/1648">Utbildning</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="https://snd.gu.se/sv/bas-online" class="navigation__link" title="">BAS Online</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/snds-resestipendium-icpsrs-sommarskola" title="" class="navigation__link" data-drupal-link-system-path="node/193">Resestipendium</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+                                            
+  <div class="navigation__dropdown">
+    <div class="row">
+      <div class="col-3">
+                            
+          <div class="navigation__dropdown-title">
+            <a href="/sv/hantera-data/data-i-forskningsprocessen" data-drupal-link-system-path="node/915">Data i forskningsprocessen</a>
+          </div>
+
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/data-i-forskningsprocessen/datahanteringsplan" data-drupal-link-system-path="node/918">Datahanteringsplan</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/data-i-forskningsprocessen/datainsamlingsfasen" data-drupal-link-system-path="node/946">Datainsamlingsfasen</a>
+            </div>
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/data-i-forskningsprocessen/dataanalysfasen" data-drupal-link-system-path="node/949">Dataanalysfasen</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/data-i-forskningsprocessen/fardigstalla-och-bevara-data" data-drupal-link-system-path="node/951">Färdigställa och bevara data</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/data-i-forskningsprocessen/tillgangliggora-data" data-drupal-link-system-path="node/952">Tillgängliggöra data</a>
+            </div>
+                                                  </div><div class="col-3">
+                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/hantera-data/guider" data-drupal-link-system-path="node/1189">Guider</a>
+          </div>
+
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/guider/filformat" data-drupal-link-system-path="node/1040">Rekommenderade filformat</a>
+            </div>
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/hantera-data/utbildning" data-drupal-link-system-path="node/1648">Utbildning</a>
+          </div>
+
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="https://snd.gu.se/sv/bas-online">BAS Online</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/snds-resestipendium-icpsrs-sommarskola" title="Stipendium för ICPSR:s sommarskola" data-drupal-link-system-path="node/193">Resestipendium</a>
+            </div>
+                        </div>
+    </div>
+  </div>
+
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/beskriv-och-dela-data" title="" class="navigation__link" data-drupal-link-system-path="node/173">Beskriv och dela data</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/beskriv-och-lamna-in-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till" title="" class="navigation__link" data-drupal-link-system-path="node/1060">Så här går det till</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-l%C3%A4mna-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till/data-och-metadata" class="navigation__link" title="" data-drupal-link-system-path="node/1201">Data och metadata in</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-l%C3%A4mna-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till/granskning-och-bearbetning" class="navigation__link" title="" data-drupal-link-system-path="node/1202">Granskning och bearbetning</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-l%C3%A4mna-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till/data-och-metadata-ut" class="navigation__link" title="" data-drupal-link-system-path="node/1203">Data och metadata ut</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/beskriv-och-dela-data/juridiskt-regelverk-forskning" class="navigation__link" title="" data-drupal-link-system-path="node/1041">Juridiskt regelverk</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/huvudmannaskap" class="navigation__link" title="" data-drupal-link-system-path="node/1045">Huvudmannaskap</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/offentlighet-och-sekretess" class="navigation__link" title="" data-drupal-link-system-path="node/1046">Offentlighet och sekretess</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/skydd-personlig-integritet" class="navigation__link" title="" data-drupal-link-system-path="node/1047">Skydd personlig integritet</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/skydd-personlig-integritet/informerat-samtycke" class="navigation__link" title="" data-drupal-link-system-path="node/1048">Informerat samtycke</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/etikprovning" class="navigation__link" title="" data-drupal-link-system-path="node/1049">Etikprövning</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/upphovsratt" class="navigation__link" title="" data-drupal-link-system-path="node/1050">Upphovsrätt</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/hantera-data/juridiskt-regelverk/arkivering" class="navigation__link" title="" data-drupal-link-system-path="node/1051">Arkivering</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-dela-data/juridiskt-regelverk/informationssakerhet" class="navigation__link" title="" data-drupal-link-system-path="node/1052">Informationssäkerhet</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-dela-data/piddoi-tjanst" title="" class="navigation__link" data-drupal-link-system-path="node/1069">PID/DOI-tjänst</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-dela-data/vad-innebar-fair-data" class="navigation__link" title="" data-drupal-link-system-path="node/1639">FAIR Data</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/beskriv-och-lamna-in-data/faq" title="" class="navigation__link" data-drupal-link-system-path="node/1061">FAQ</a>
+        
+              </li>
+        </ul>
+  
+        
+                                                        
+  <div class="navigation__dropdown">
+    <div class="row">
+      <div class="col-3">
+                            
+          <div class="navigation__dropdown-title">
+            <a href="/sv/beskriv-och-lamna-in-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till" title="Description of the data deposition process at SND" data-drupal-link-system-path="node/1060">Så här går det till</a>
+          </div>
+
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/beskriv-och-l%C3%A4mna-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till/data-och-metadata" data-drupal-link-system-path="node/1201">Data och metadata in</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/beskriv-och-l%C3%A4mna-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till/granskning-och-bearbetning" data-drupal-link-system-path="node/1202">Granskning och bearbetning</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/beskriv-och-l%C3%A4mna-data/s%C3%A5-h%C3%A4r-g%C3%A5r-det-till/data-och-metadata-ut" data-drupal-link-system-path="node/1203">Data och metadata ut</a>
+            </div>
+                                                  </div><div class="col-3">
+                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/beskriv-och-dela-data/juridiskt-regelverk-forskning" data-drupal-link-system-path="node/1041">Juridiskt regelverk</a>
+          </div>
+
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/juridiskt-regelverk/huvudmannaskap" data-drupal-link-system-path="node/1045">Huvudmannaskap</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/juridiskt-regelverk/offentlighet-och-sekretess" data-drupal-link-system-path="node/1046">Offentlighet och sekretess</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/juridiskt-regelverk/skydd-personlig-integritet" data-drupal-link-system-path="node/1047">Skydd personlig integritet</a>
+            </div>
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/juridiskt-regelverk/etikprovning" data-drupal-link-system-path="node/1049">Etikprövning</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/juridiskt-regelverk/upphovsratt" data-drupal-link-system-path="node/1050">Upphovsrätt</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/hantera-data/juridiskt-regelverk/arkivering" data-drupal-link-system-path="node/1051">Arkivering</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/beskriv-och-dela-data/juridiskt-regelverk/informationssakerhet" data-drupal-link-system-path="node/1052">Informationssäkerhet</a>
+            </div>
+                                                  </div><div class="col-3">
+                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/beskriv-och-dela-data/piddoi-tjanst" title="Information om DOI och SND:s medlemsskap i DataCite, kontaktinformation för prefix." data-drupal-link-system-path="node/1069">PID/DOI-tjänst</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/beskriv-och-dela-data/vad-innebar-fair-data" data-drupal-link-system-path="node/1639">FAIR Data</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/beskriv-och-lamna-in-data/faq" title="Vanligt förekommande frågor och svar om hantering av forskningsdata vid inlämning till SND" data-drupal-link-system-path="node/1061">FAQ</a>
+          </div>
+
+                        </div>
+    </div>
+  </div>
+
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt" title="" class="navigation__link" data-drupal-link-system-path="node/882">Aktuellt</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/nyhetsarkivet" class="navigation__link" title="" data-drupal-link-system-path="node/1643">Nyhetsarkiv</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang" class="navigation__link" title="" data-drupal-link-system-path="node/1626">Arrangemang</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2019" class="navigation__link" title="" data-drupal-link-system-path="node/1586">2019</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2019/natverkstraff-i-lund" class="navigation__link" title="" data-drupal-link-system-path="node/1623">Nätverksträff 26-27/11</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/arrangemang/2019/natverkstraff-26-2711/anmalan-natverkstraff-26-2711" class="navigation__link" title="" data-drupal-link-system-path="node/1650">Anmälan</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2019/fet-och-ret-i-fair" class="navigation__link" title="" data-drupal-link-system-path="node/1622">Nätverksträff 3/10</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/arrangemang/2019/natverkstraff-310/anmalan-natverkstraff-103" class="navigation__link" title="" data-drupal-link-system-path="node/1642">Anmälan</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2019/vart-arbete-med-forskare" class="navigation__link" title="" data-drupal-link-system-path="node/1603">Nätverksträff 3-4/6</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/arrangemang/2019/natverkstraff-3-46/anmalan-till-natverkstraffen-3-4-juni" class="navigation__link" title="" data-drupal-link-system-path="node/1605">Anmälan</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2019/datahanteringsplan-hur-och-varfor" class="navigation__link" title="" data-drupal-link-system-path="node/1585">Nätverksträff 12/3</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/arrangemang/2019/natverkstraff-123/anmalan-natverkstraffen-123" class="navigation__link" title="" data-drupal-link-system-path="node/1589">Anmälan</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2018" title="" class="navigation__link" data-drupal-link-system-path="node/1295">2018</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/arrangemang/2018/workshop-building-capabilities-professional-rdm-support-service" class="navigation__link" title="" data-drupal-link-system-path="node/1574">Workshop 5/12</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2018/att-etablera-en-dau-utmaningar-losningar-och-inspiration" class="navigation__link" title="" data-drupal-link-system-path="node/1572">Nätverksträff 4/12</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/aktuellt/arrangemang/2018/natverkstraff-412/anmalan-till-natverkstraffen-412" class="navigation__link" title="" data-drupal-link-system-path="node/1573">Anmälan</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2018/ut%C3%A5t-in%C3%A5t-fram%C3%A5t" class="navigation__link" title="" data-drupal-link-system-path="node/1461">Nätverksträff 8/10</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2018/att-etablera-och-arbeta-i-dau-%E2%80%93-policyer-krav-och-behov" class="navigation__link" title="" data-drupal-link-system-path="node/1433">Nätverksträff 11/6</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2018/forskningsdata-%E2%80%93-fr%C3%A5n-dau-till-snd" class="navigation__link" title="" data-drupal-link-system-path="node/1296">Nätverksträff 5/3</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2017" class="navigation__link" title="" data-drupal-link-system-path="node/1181">2017</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2017/att-bygga-samarbeten-f%C3%B6r-framtiden" class="navigation__link" title="" data-drupal-link-system-path="node/1221">SND-workshop 15/11</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2017/v%C3%A4gen-till-fair-data" class="navigation__link" title="" data-drupal-link-system-path="node/1222">SND-forum 14/11</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2017/n%C3%A4tverkstr%C3%A4ff-1311" class="navigation__link" title="" data-drupal-link-system-path="node/1224">Nätverksträff 13/11</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2017/nya-dataskyddsf%C3%B6rordningen-2018" class="navigation__link" title="" data-drupal-link-system-path="node/1216">Dataskyddsförordningen 23/10</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2017/snd-forum-26" class="navigation__link" title="" data-drupal-link-system-path="node/1183">SND-forum 2/6</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2017/n%C3%A4tverkstr%C3%A4ff-16" class="navigation__link" title="" data-drupal-link-system-path="node/1182">Nätverksträff 1/6</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2016" title="" class="navigation__link" data-drupal-link-system-path="node/1096">2016</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/arrangemang/diskussionsforum-forskningsdata-13-maj-2016" title="" class="navigation__link" data-drupal-link-system-path="node/1088">Diskussionsforum: Forskningsdata, maj</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2016/diskussionsforum-8-november" class="navigation__link" title="" data-drupal-link-system-path="node/1098">Diskussionsforum: Forskningsdata, november</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2016/nationell-forskarworkshop-2016-datahanteringsplaner" class="navigation__link" title="" data-drupal-link-system-path="node/1099">Nationell forskarworkshop</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/arrangemang/2016/datahanteringsutbildning-10-11-november" class="navigation__link" title="" data-drupal-link-system-path="node/1100">Datahanteringsutbildning</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2016/datahanteringsutbildning-10-11-november/fordjupningssessioner-dag-2" class="navigation__link" title="" data-drupal-link-system-path="node/1117">Fördjupningssessioner dag 2</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2016/datahanteringsutbildning-10-11-november/tillgodoraknande-av-snds" class="navigation__link" title="" data-drupal-link-system-path="node/1118">Utbildningen som del i forskarutbildning</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2015" class="navigation__link" title="" data-drupal-link-system-path="node/1087">2015</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2015/hur-delar-man-erfarenheter-kring-datahantering-i-registerbaserad-forskning" class="navigation__link" title="" data-drupal-link-system-path="node/1026">SIMSAM-INFRA workshop</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2015/diskussionsforum-forskningsdata-8-april-2015" class="navigation__link" title="" data-drupal-link-system-path="node/979">Diskussionsforum: Forskningsdata, april</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2015/diskussionsforum-forskningsdata-10-november-2015" class="navigation__link" title="" data-drupal-link-system-path="node/1023">Diskussionsforum: Forskningsdata, november</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/om-oss/arrangemang/snds-nationella-workshop-forskare-2015" class="navigation__link" title="" data-drupal-link-system-path="node/1025">Nationell forskarworkshop</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2015/nationell-workshop-forskare/nya-villkor-forskning" class="navigation__link" title="" data-drupal-link-system-path="node/1119">Program och presentationer</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/om-oss/arrangemang/snds-datahanteringsutbildning-2015" class="navigation__link" title="" data-drupal-link-system-path="node/1024">Datahanteringsutbildning</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/arrangemang/datahanteringsutbildning/f%C3%B6rdjupningssessioner-dag-2" title="" class="navigation__link" data-drupal-link-system-path="node/1043">Fördjupningssessioner dag 2</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/arrangemang/datahanteringsutbildning/tillgodor%C3%A4knande-av-snds-datahanteringsutbildning-2015" title="" class="navigation__link" data-drupal-link-system-path="node/1042">Utbildningen som del i forskarutbildning</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2014" title="" class="navigation__link" data-drupal-link-system-path="node/984">2014</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/arrangemang/snd-doktorandn%C3%A4tverkstr%C3%A4ff-2014" class="navigation__link" title="" data-drupal-link-system-path="node/895">Doktorandnätverksträff</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/arrangemang/inbjudan-till-snd-nationella-forskarworkshop-2014" class="navigation__link" title="" data-drupal-link-system-path="node/896">Nationell forskarworkshop</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/arrangemang/2014-diskussionsforum-forskningsdata" class="navigation__link" title="" data-drupal-link-system-path="node/934">Diskussionsforum: Forskningsdata</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/2013" class="navigation__link" title="" data-drupal-link-system-path="node/1114">2013</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/2013/forskarworkshop-och-doktorandnatverkstraff" class="navigation__link" title="" data-drupal-link-system-path="node/778">Nationell forskarworkshop &amp; doktorandnätverksträff</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/aktuellt/arrangemang/tidigare" class="navigation__link" title="" data-drupal-link-system-path="node/1115">Tidigare</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/arrangemang/tidigare/eddi-2011" class="navigation__link" title="" data-drupal-link-system-path="node/476">EDDI 2011</a>
+        
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/arrangemang/tidigare/cessda-expert-seminar-2010" title="" class="navigation__link" data-drupal-link-system-path="node/371">CES 2010</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/ces2010/program_and_presentations" title="" class="navigation__link" data-drupal-link-system-path="node/387">Program and presentations</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/ces10/participants" title="" class="navigation__link" data-drupal-link-system-path="node/379">Participants</a>
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+              </li>
+        </ul>
+  
+        
+                                      
+  <div class="navigation__dropdown">
+    <div class="row">
+      <div class="col-3">
+                            
+          <div class="navigation__dropdown-title">
+            <a href="/sv/aktuellt/nyhetsarkivet" data-drupal-link-system-path="node/1643">Nyhetsarkiv</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/aktuellt/arrangemang" data-drupal-link-system-path="node/1626">Arrangemang</a>
+          </div>
+
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2019" data-drupal-link-system-path="node/1586">2019</a>
+            </div>
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2018" title="SND-arrangemang 2018" data-drupal-link-system-path="node/1295">2018</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2017" data-drupal-link-system-path="node/1181">2017</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2016" title="SND-arrangemang 2016" data-drupal-link-system-path="node/1096">2016</a>
+            </div>
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2015" data-drupal-link-system-path="node/1087">2015</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2014" title="SND-arrangemang 2014" data-drupal-link-system-path="node/984">2014</a>
+            </div>
+                                  
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/2013" data-drupal-link-system-path="node/1114">2013</a>
+            </div>
+                                                </div><div class="col-3">
+                          
+            <div class="navigation__dropdown-link">
+              <a href="/sv/aktuellt/arrangemang/tidigare" data-drupal-link-system-path="node/1115">Tidigare</a>
+            </div>
+                        </div>
+    </div>
+  </div>
+
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/om-oss" title="" class="navigation__link" data-drupal-link-system-path="node/183">Om oss</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/snds-konsortium" class="navigation__link" title="" data-drupal-link-system-path="node/1230">SND:s konsortium</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/snd-n%C3%A4tverket" class="navigation__link" title="" data-drupal-link-system-path="node/1231">SND-nätverket</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/styrgrupp" title="" class="navigation__link" data-drupal-link-system-path="node/189">Styrgrupp</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/internationella%20medlemskap" title="" class="navigation__link" data-drupal-link-system-path="node/260">Internationella medlemskap</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/projekt" class="navigation__link" title="" data-drupal-link-system-path="node/623">Projekt</a>
+        
+              </li>
+          
+            <li class="navigation__item">
+        
+        <a href="/sv/om-oss/informationsmaterial" class="navigation__link" title="" data-drupal-link-system-path="node/861">Informationsmaterial</a>
+        
+              </li>
+        </ul>
+  
+        
+                                                              
+  <div class="navigation__dropdown">
+    <div class="row">
+      <div class="col-3">
+                            
+          <div class="navigation__dropdown-title">
+            <a href="/sv/om-oss/snds-konsortium" data-drupal-link-system-path="node/1230">SND:s konsortium</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/om-oss/snd-n%C3%A4tverket" data-drupal-link-system-path="node/1231">SND-nätverket</a>
+          </div>
+
+                                                  </div><div class="col-3">
+                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/om-oss/styrgrupp" title="Styrgrupp" data-drupal-link-system-path="node/189">Styrgrupp</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/om-oss/internationella%20medlemskap" title="Medlemskap internationella organisationer" data-drupal-link-system-path="node/260">Internationella medlemskap</a>
+          </div>
+
+                                                  </div><div class="col-3">
+                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/projekt" data-drupal-link-system-path="node/623">Projekt</a>
+          </div>
+
+                                      
+          <div class="navigation__dropdown-title">
+            <a href="/sv/om-oss/informationsmaterial" data-drupal-link-system-path="node/861">Informationsmaterial</a>
+          </div>
+
+                        </div>
+    </div>
+  </div>
+
+              </li>
+          
+            <li class="navigation__item navigation__item--parent">
+                  <div class="navigation__expand-button js-navigation__expand-button">
+            <span class="navigation__expand-icon"></span>
+          </div>
+        
+        <a href="/sv/kontakt" class="navigation__link" title="" data-drupal-link-system-path="node/1620">Kontakt</a>
+                                <ul class="navigation__menu-sub">
+              
+            <li class="navigation__item">
+        
+        <a href="/sv/kontakt/arbetsgrupper" class="navigation__link" title="" data-drupal-link-system-path="node/1232">Arbetsgrupper</a>
+        
+              </li>
+        </ul>
+  
+        
+                                
+  <div class="navigation__dropdown">
+    <div class="row">
+      <div class="col-3">
+                            
+          <div class="navigation__dropdown-title">
+            <a href="/sv/kontakt/arbetsgrupper" data-drupal-link-system-path="node/1232">Arbetsgrupper</a>
+          </div>
+
+                        </div>
+    </div>
+  </div>
+
+              </li>
+        </ul>
+  
+
+
+
+
+
+
+  </nav>
+
+  </div>
+
+              
+              <div class="language-switcher--mobile">
+                <ul class="links"><li><a href="/en/catalogue/study/snd1105/001" class="language-link" hreflang="en">In English</a></li></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="content-top container">
+    <div class="row">
+      <div class="col">
+          <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+<main class="container" role="main">
+  <a id="main-content" tabindex="-1"></a>
+  <div class="layout-content">
+    
+      <div>
+    
+<div id="block-snd-page-title" class="block">
+  
+    
+      
+  <h1 class="title node__title">Svenskt historiskt fenologidataset</h1>
+
+
+  </div>
+
+
+
+<div class="study_landingpage mt-4">
+  
+  <div class="tabs">
+    <!-- Radio button and label for #tab-citation -->
+    <input type="radio" name="tabs" id="tab_overview"  />
+    <label for="tab_overview" id="label-tab-overview">
+      <i class="glyphicons glyphicons-global"></i><span>Översikt</span>
+    </label>
+    <!-- Radio button and label for #tab-description -->
+    <input type="radio" name="tabs" id="tab_description"  />
+    <label for="tab_description">
+      <i class="glyphicons glyphicons-list"></i><span>Beskrivning</span>
+    </label>
+
+    <!-- Radio button and label for #tab-dataset -->
+          <input type="radio" name="tabs" id="tab_dataset" checked />
+      <label for="tab_dataset">
+        <i class="glyphicons glyphicons-more-windows"></i><span>Dataset</span>
+      </label>
+    
+    <!-- Paginator -->
+    
+    <div id="tab-overview" class="tab-content">
+      
+<div id="overview">
+  <div class="study_landingpage_content">
+              <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Skapare/primärforskare:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+                      <div>
+              <p>
+                              <a href="https://snd.gu.se/sv/catalogue/search?pi=0000-0003-1709-400x" title="Ola Langvall">
+                  <span>
+                    Ola Langvall
+                  </span>
+                </a>
+                                            <span class="affiliation"> - Sveriges lantbruksuniversitet, Enheten för skoglig fältforskning</span>
+                                            <a href="http://orcid.org/0000-0003-1709-400X" title="orcid.org/0000-0003-1709-400X" target="_blank">
+                  <img src="/modules/custom/metadata_catalogue/images/orcid_16.png" alt="orcid" />
+                </a>
+                                          </p>
+            </div>
+                      <div>
+              <p>
+                              <a href="https://snd.gu.se/sv/catalogue/search?pi=0000-0001-9523-9134" title="Åslög Dahl">
+                  <span>
+                    Åslög Dahl
+                  </span>
+                </a>
+                                            <span class="affiliation"> - Göteborgs universitet, Institutionen för biologi och miljövetenskap</span>
+                                            <a href="http://orcid.org/0000-0001-9523-9134" title="orcid.org/0000-0001-9523-9134" target="_blank">
+                  <img src="/modules/custom/metadata_catalogue/images/orcid_16.png" alt="orcid" />
+                </a>
+                                          </p>
+            </div>
+                  </div>
+      </div>
+              <div class="sndcatalogue_row abstract_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Beskrivning:</p>
+        </div>
+        <div class="sndcatalogue_rowtext abstract">
+                <div id="sndcatalogue_abstract_less">
+      <p>Datasetet innehåller rapporter om fenologiska observationer gjorda på över 700 platser i Sverige mellan åren 1865 och 1951. Observationerna gjordes framför allt av SMCA:s (Sveriges Meteorologiska Centralanstalt, föregångaren till SMHI) lokala väderobservatörer och väderdata finns att tillgå för många ställen, som stöd till dessa observationer (kontakta SMHI för data-förfrågan, se <a href="http://www.smhi.se">www.smhi.se</a>). <br />
+<br />
+Datasetet omfattar totalt 345 806 poster med observationer. Fenologiska data består framför allt av observationer om lövsprickning, blomningstidpunkt, bärmognad och höstfärgning av löven hos växter och träd, men också ankomst- och flyttningsdatum för flyttfåglar, jordbruksaktiviteter som när vårbruket börjar och när sådd och skörd börjar, samt några insekters aktiviteter.<br />
+<br />
+Datasetet är digitaliserat och tillhandahålls av Svenska fenologinätverket (SWE-NPN), ett nätverk med SLU som huvudman och flera universitet, myndigheter och intresseorganisationer som partners. Uppsala universitet och SMHI har varit samarbetspartners vid digitaliseringen, då de innehar originalblanketterna och har skannat in dessa t</p>...
+      <span style="display: block; margin-top: 10px;">
+        <a href="#" onclick="expand('sndcatalogue_abstract'); return false" class="more-less-link">Visa mer..</a>
+      </span>
+    </div>
+    <div id="sndcatalogue_abstract_more" style="display: none;">
+      Datasetet innehåller rapporter om fenologiska observationer gjorda på över 700 platser i Sverige mellan åren 1865 och 1951. Observationerna gjordes framför allt av SMCA:s (Sveriges Meteorologiska Centralanstalt, föregångaren till SMHI) lokala väderobservatörer och väderdata finns att tillgå för många ställen, som stöd till dessa observationer (kontakta SMHI för data-förfrågan, se <a href="http://www.smhi.se">www.smhi.se</a>). <br />
+<br />
+Datasetet omfattar totalt 345 806 poster med observationer. Fenologiska data består framför allt av observationer om lövsprickning, blomningstidpunkt, bärmognad och höstfärgning av löven hos växter och träd, men också ankomst- och flyttningsdatum för flyttfåglar, jordbruksaktiviteter som när vårbruket börjar och när sådd och skörd börjar, samt några insekters aktiviteter.<br />
+<br />
+Datasetet är digitaliserat och tillhandahålls av Svenska fenologinätverket (SWE-NPN), ett nätverk med SLU som huvudman och flera universitet, myndigheter och intresseorganisationer som partners. Uppsala universitet och SMHI har varit samarbetspartners vid digitaliseringen, då de innehar originalblanketterna och har skannat in dessa till digitala kopior. För mer information om nätverket, se <a href="http://www.swe-npn.se">www.swe-npn.se</a>.
+      <span style="display: block; margin-top: 10px;">
+        <a href="#" onclick="expand('sndcatalogue_abstract'); return false" class="more-less-link">Visa mindre..</a>
+      </span>
+    </div>
+  
+        </div>
+      </div>
+        
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Ämnesområde:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+          <p>
+                                    <a href="https://snd.gu.se/sv/catalogue/search?subject=Naturvetenskap"><span>Naturvetenskap</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Klimatforskning"><span>Klimatforskning</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Milj%C3%B6vetenskap"><span>Miljövetenskap</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Naturgeografi"><span>Naturgeografi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Ekologi"><span>Ekologi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Zoologi"><span>Zoologi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Jordbruksvetenskap"><span>Jordbruksvetenskap</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Skogsvetenskap"><span>Skogsvetenskap</span></a>            
+                          <a href="https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-indelning-av-forskningsamnen" class="subject_vocabulary_link" target="_blank">(Standard för svensk indelning av forskningsämnen 2011)</a>
+                        <br />
+                                    <span title="INSPIRE topic categories">Areella näringar</span>,                          <span title="INSPIRE topic categories">Biologi och ekologi</span>            
+                          <a href="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory" class="subject_vocabulary_link" target="_blank">(Ämnesklassificering enligt INSPIRE)</a>
+                        <br />
+                    </p>
+        </div>
+      </div>
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Nyckelord:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+          <p>
+                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=agriculture" ><span>jordbruk</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=ecology" ><span>ekologi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=seasonal-variation" ><span>årstidsvariation</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=climate-change-impact" ><span>klimatförändringarnas konsekvenser</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=phenology" ><span>phenology</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=environmental-monitoring-facilities" ><span>Anläggningar för miljöövervakning</span></a>                      </p>
+        </div>
+      </div>
+    
+          
+      <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Karta:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+          <div id="study_landingpage_map"></div>
+        </div>
+      </div>
+    	</div>
+</div>
+
+<div class="study_landingpage_column_right">
+
+        <div class="column_right_section">
+      <div class="sndcatalogue_rowheader"><p>Huvudman:</p></div>
+      <div class="sndcatalogue_rowtext">
+                  <p><a href="https://snd.gu.se/sv/catalogue/search?principal=Sveriges%20lantbruksuniversitet">Sveriges lantbruksuniversitet</a></p>
+              </div>
+    </div>
+  
+  <div class="column_right_section">
+    <div class="sndcatalogue_row">
+      <div class="sndcatalogue_rowheader">
+        <p>Tillgänglighet:</p>
+      </div>
+      <div class="sndcatalogue_rowtext">
+        <p>
+          <div class="float-left" >
+                        <a href="/sv/beskriv-och-lamna-in-data/tillganglighetsnivaer" title="Information om tillgänglighetsnivåer">
+                          <span class="glyphicons glyphicons-info-sign"></span>
+            </a>
+          </div>
+          <div class="float-left" style="margin-top:4px">
+            <a href="https://snd.gu.se/sv/catalogue/search?availabilitystatus=1a">
+              Åtkomst till data via SND<br> Data är fritt tillgängliga<br>
+            </a>
+          </div>
+        </p>
+      </div>
+    </div>
+  </div>
+
+    
+
+  
+	  
+        <div class="column_right_section">
+      <div class="sndcatalogue_rowheader">
+        <p>Ladda ner data:</p>
+      </div>
+                        <div class="sndcatalogue_rowtext">
+                          <div class="float-left">
+                <a download="SND1105-001_V1.0.zip" title="Svenskt historiskt fenologidataset" href="/catalogue/file/6514" rel="nofollow"><i class="glyphicons glyphicons-download"></i><span class="download-item">SND1105-001_V1.0.zip</span></a><i> (7.97 MB)</i>              </div>
+              <span class="clr-both-5"></span>
+              <span style="margin-left:26px; display:block;">Svenskt historiskt fenologidataset</span>
+              <span class="clr-both-5"></span>
+                      </div>
+                  </div>
+  </div>
+    </div>
+    <div id="tab-description" class="tab-content">
+      
+<div id="description">
+  <div class="study_landingpage_content">
+
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Ansvarig institution/enhet:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+          <div>
+                          <p>
+                <a href="https://snd.gu.se/sv/catalogue/search?producer=unit-for-field-based-forest-research-the-swedish-university-of-agricultural-sciences">
+                  Sveriges lantbruksuniversitet, Enheten för skoglig fältforskning
+                </a>
+              </p>
+                      </div>
+        </div>
+      </div>
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Skapare/primärforskare:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+                      <div>
+              <p>
+                              <a href="https://snd.gu.se/sv/catalogue/search?pi=0000-0003-1709-400x" title="Ola Langvall">
+                  <span>
+                    Ola Langvall
+                  </span>
+                </a>
+                                            <span class="affiliation"> - Sveriges lantbruksuniversitet, Enheten för skoglig fältforskning</span>
+                                            <a href="http://orcid.org/0000-0003-1709-400X" title="orcid.org/0000-0003-1709-400X" content="http://orcid.org/0000-0003-1709-400X" target="_blank">
+                  <img src="/modules/custom/metadata_catalogue/images/orcid_16.png" alt="orcid" />
+                </a>
+                                          </p>
+            </div>
+                      <div>
+              <p>
+                              <a href="https://snd.gu.se/sv/catalogue/search?pi=0000-0001-9523-9134" title="Åslög Dahl">
+                  <span>
+                    Åslög Dahl
+                  </span>
+                </a>
+                                            <span class="affiliation"> - Göteborgs universitet, Institutionen för biologi och miljövetenskap</span>
+                                            <a href="http://orcid.org/0000-0001-9523-9134" title="orcid.org/0000-0001-9523-9134" content="http://orcid.org/0000-0001-9523-9134" target="_blank">
+                  <img src="/modules/custom/metadata_catalogue/images/orcid_16.png" alt="orcid" />
+                </a>
+                                          </p>
+            </div>
+                  </div>
+      </div>
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Medverkande:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+                      <p>
+              Kjell Bolmgren
+                              <span class="affiliation"> - Sveriges lantbruksuniversitet, Enheten för skoglig fältforskning</span>
+                                                          <a href="http://orcid.org/0000-0001-9552-9684" title="orcid.org/0000-0001-9552-9684" target="_blank">
+                  <img src="/modules/custom/metadata_catalogue/images/orcid_16.png" alt="orcid" />
+                </a>
+                          </p>
+                            </div>
+      </div>
+    
+    <div class="sndcatalogue_row">
+      <div class="sndcatalogue_rowheader">
+        <p>Identifierare:</p>
+      </div>
+      <div class="sndcatalogue_rowtext">
+                  <p>
+            <span>SND-ID:</span>
+            <span>SND 1105</span>
+          </p>
+                              </div>
+    </div>
+
+    
+    
+          <div class="sndcatalogue_row abstract_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Beskrivning:</p>
+        </div>
+        <div class="sndcatalogue_rowtext abstract">
+                 <div id="sndcatalogue_abstract2_less">
+      <p>Datasetet innehåller rapporter om fenologiska observationer gjorda på över 700 platser i Sverige mellan åren 1865 och 1951. Observationerna gjordes framför allt av SMCA:s (Sveriges Meteorologiska Centralanstalt, föregångaren till SMHI) lokala väderobservatörer och väderdata finns att tillgå för många ställen, som stöd till dessa observationer (kontakta SMHI för data-förfrågan, se <a href="http://www.smhi.se">www.smhi.se</a>). <br />
+<br />
+Datasetet omfattar totalt 345 806 poster med observationer. Fenologiska data består framför allt av observationer om lövsprickning, blomningstidpunkt, bärmognad och höstfärgning av löven hos växter och träd, men också ankomst- och flyttningsdatum för flyttfåglar, jordbruksaktiviteter som när vårbruket börjar och när sådd och skörd börjar, samt några insekters aktiviteter.<br />
+<br />
+Datasetet är digitaliserat och tillhandahålls av Svenska fenologinätverket (SWE-NPN), ett nätverk med SLU som huvudman och flera universitet, myndigheter och intresseorganisationer som partners. Uppsala universitet och SMHI har varit samarbetspartners vid digitaliseringen, då de innehar originalblanketterna och har skannat in dessa t</p>...
+      <span style="display: block; margin-top: 10px;">
+        <a href="#" onclick="expand('sndcatalogue_abstract2'); return false" class="more-less-link">Visa mer..</a>
+      </span>
+    </div>
+    <div id="sndcatalogue_abstract2_more" style="display: none;">
+      Datasetet innehåller rapporter om fenologiska observationer gjorda på över 700 platser i Sverige mellan åren 1865 och 1951. Observationerna gjordes framför allt av SMCA:s (Sveriges Meteorologiska Centralanstalt, föregångaren till SMHI) lokala väderobservatörer och väderdata finns att tillgå för många ställen, som stöd till dessa observationer (kontakta SMHI för data-förfrågan, se <a href="http://www.smhi.se">www.smhi.se</a>). <br />
+<br />
+Datasetet omfattar totalt 345 806 poster med observationer. Fenologiska data består framför allt av observationer om lövsprickning, blomningstidpunkt, bärmognad och höstfärgning av löven hos växter och träd, men också ankomst- och flyttningsdatum för flyttfåglar, jordbruksaktiviteter som när vårbruket börjar och när sådd och skörd börjar, samt några insekters aktiviteter.<br />
+<br />
+Datasetet är digitaliserat och tillhandahålls av Svenska fenologinätverket (SWE-NPN), ett nätverk med SLU som huvudman och flera universitet, myndigheter och intresseorganisationer som partners. Uppsala universitet och SMHI har varit samarbetspartners vid digitaliseringen, då de innehar originalblanketterna och har skannat in dessa till digitala kopior. För mer information om nätverket, se <a href="http://www.swe-npn.se">www.swe-npn.se</a>.
+      <span style="display: block; margin-top: 10px;">
+        <a href="#" onclick="expand('sndcatalogue_abstract2'); return false" class="more-less-link">Visa mindre..</a>
+      </span>
+    </div>
+  
+        </div>
+      </div>
+    
+    
+    
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Tidsperiod(er) som undersökts:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+                  <p>
+            1865-01-01 &mdash; 1951-12-31
+          </p>
+                </div>
+      </div>
+    
+    
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Geografisk utbredning:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+                      <p>
+              Geografisk plats:
+                              <a
+                  href ="https://snd.gu.se/sv/catalogue/search?geographiclocation=Sverige"
+                  rel="nofollow">
+                  Sverige</a>                          </p>
+                                <p>
+              Geografisk beskrivning:
+              <span>
+              De observationsplatser som de fenologiska observationerna gjordes på är spridda över hela landet.
+              </span>
+            </p>
+                  </div>
+      </div>
+    
+    
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Ämnesområde:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+          <p>
+                                    <a href="https://snd.gu.se/sv/catalogue/search?subject=Naturvetenskap"><span>Naturvetenskap</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Klimatforskning"><span>Klimatforskning</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Milj%C3%B6vetenskap"><span>Miljövetenskap</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Naturgeografi"><span>Naturgeografi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Ekologi"><span>Ekologi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Zoologi"><span>Zoologi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Jordbruksvetenskap"><span>Jordbruksvetenskap</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?subject=Skogsvetenskap"><span>Skogsvetenskap</span></a>            
+                          <a href="https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-indelning-av-forskningsamnen" class="subject_vocabulary_link" target="_blank">(Standard för svensk indelning av forskningsämnen 2011)</a>
+                        <br />
+                                    <span title="INSPIRE topic categories">Areella näringar</span>,                          <span title="INSPIRE topic categories">Biologi och ekologi</span>            
+                          <a href="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory" class="subject_vocabulary_link" target="_blank">(Ämnesklassificering enligt INSPIRE)</a>
+                        <br />
+                    </p>
+        </div>
+      </div>
+    
+          <div class="sndcatalogue_row">
+        <div class="sndcatalogue_rowheader">
+          <p>Nyckelord:</p>
+        </div>
+        <div class="sndcatalogue_rowtext">
+          <p>
+                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=agriculture" ><span>jordbruk</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=ecology" ><span>ekologi</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=seasonal-variation" ><span>årstidsvariation</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=climate-change-impact" ><span>klimatförändringarnas konsekvenser</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=phenology" ><span>phenology</span></a>,                          <a href="https://snd.gu.se/sv/catalogue/search?keyword=environmental-monitoring-facilities" ><span>Anläggningar för miljöövervakning</span></a>                      </p>
+        </div>
+      </div>
+    
+    
+    
+    
+    
+    
+    
+  </div>
+</div>
+<div class="study_landingpage_column_right">
+
+  
+  
+  
+  
+  
+  <div class="column_right_section">
+    <div class="sndcatalogue_row">
+      <div class="sndcatalogue_rowheader">
+        <p>Ladda ner metadata:</p>
+      </div>
+      <div class="sndcatalogue_rowtext">
+        <p>
+          <ul>
+            
+            
+            <li>
+              <a href="https://snd.gu.se/sv/catalogue/study/snd1105/export/ddi-3.2" download="snd1105-ddi-3.2.xml" rel="nofollow">
+                DDI Lifecycle 3.2
+              </a>
+            </li>
+            <li>
+              <a href="https://snd.gu.se/sv/catalogue/study/snd1105/export/ddi-2.5" download="snd1105_ddi25.xml" rel="nofollow">
+                DDI Codebook 2.5
+              </a>
+            </li>
+            <li>
+              <a href="https://snd.gu.se/sv/catalogue/study/snd1105/export/marc-xml" download="snd1105-mac-xml.xml" rel="nofollow">
+                MARC-XML
+              </a>
+            </li>
+                        <li><a href="https://snd.gu.se/sv/catalogue/study/snd1105/export/json" download="snd1105.json">JSON</a></li>
+          </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    </div>
+          <div id="tab-dataset" class="tab-content">
+        
+<div id="datasets">
+      <div id="dataset_snd1105-001" class="dataset">
+      <div class="study_landingpage_column_right">
+
+                  <div class="column_right_section">
+            <div class="study_landingpage_infobox">
+                                                <div class="messages messages--status">
+                    Detta är den senaste versionen av datasetet.
+                  </div>
+                              
+                                                                                <div class="sndcatalogue_row version messages messages--status">
+                  <div class="sndcatalogue_rowheader">
+                    <p>Version 1.0:</p>
+                  </div>
+                  <div class="sndcatalogue_rowtext">
+                    <p>
+                      2019-05-28
+                                              <a href="https://doi.org/10.5878/sa66-2586">doi:10.5878/sa66-2586</a>
+                                            <br/>
+                                          </p>
+                  </div>
+                </div>
+                          </div>
+          </div>
+        
+                  <div class="column_right_section">
+            <div class="sndcatalogue_rowheader"><p>Ladda ner data:</p></div>
+            <div class="sndcatalogue_rowtext">
+                              <div class="float-left">
+                  <a download="SND1105-001_V1.0.zip" title="Svenskt historiskt fenologidataset" href="/catalogue/file/6514" rel="nofollow"><i class="glyphicons glyphicons-download"></i><span class="download-item">SND1105-001_V1.0.zip</span></a><i> (7.97 MB)</i>                </div>
+                <span class="clr-both-5"></span>
+                <span style="margin-left:26px; display:block;">Svenskt historiskt fenologidataset</span>
+                <span class="clr-both-5"></span>
+                          </div>
+          </div>
+        
+        
+        
+              </div>
+
+      <div class="study_landingpage_content">
+                <h3>Svenskt historiskt fenologidataset</h3>
+                                                    <div class="sndcatalogue_row">
+            <div class="sndcatalogue_rowheader">
+              <p>Citering:</p>
+            </div>
+            <div class="sndcatalogue_rowtext">
+              <p>
+                Ola Langvall, Åslög Dahl. Sveriges lantbruksuniversitet, Enheten för skoglig fältforskning (2019). <em>Svenskt historiskt fenologidataset</em>. Svensk nationell datatjänst. Version 1.0. <a href="https://doi.org/10.5878/sa66-2586">https://doi.org/10.5878/sa66-2586</a>
+              </p>
+            </div>
+          </div>
+        
+        
+        
+                  <div class="sndcatalogue_row abstract_row">
+            <div class="sndcatalogue_rowheader">
+              <p>Beskrivning:</p>
+            </div>
+            <div class="sndcatalogue_rowtext abstract">
+                    <div id="sndcatalogue_abstract_snd1105-001_less">
+      <p>De fenologiska observationerna gjordes enligt den instruktion som SMCA hade satt upp (se uppladdade originalblanketter i dokumentationen). Observationerna gjordes regelbundet, med ca 1 veckas mellanrum eller vid behov, och datum när en viss fas inträffat noterades på blankett. Digitala kopior av originalblanketterna kan erhållas på förfrågan. Datasetet innehåller en observationsfil, observation_standalone.csv, som kan användas helt separat, utan hjälpfiler. Denna innehåller all nödvändig informa</p>...
+      <span style="display: block; margin-top: 10px;">
+        <a href="#" onclick="expand('sndcatalogue_abstract_snd1105-001'); return false" class="more-less-link">Visa mer..</a>
+      </span>
+    </div>
+    <div id="sndcatalogue_abstract_snd1105-001_more" style="display: none;">
+      De fenologiska observationerna gjordes enligt den instruktion som SMCA hade satt upp (se uppladdade originalblanketter i dokumentationen). Observationerna gjordes regelbundet, med ca 1 veckas mellanrum eller vid behov, och datum när en viss fas inträffat noterades på blankett. Digitala kopior av originalblanketterna kan erhållas på förfrågan. Datasetet innehåller en observationsfil, observation_standalone.csv, som kan användas helt separat, utan hjälpfiler. Denna innehåller all nödvändig information för att använda data, t.ex. koordinater (latitud/longitud) till lokalen där observationen är gjord, artnamn (latinskt), fenologisk fas samt tidpunkt. Det finns också en observationsfil, observation.csv, där plats, förrättare, art och fenologisk fas är kodade. Denna behöver övriga hjälpfiler som finns i datasetet, för att kunna kopplas till observationsplatser, förrättarens namn artnamn och fasbeskrivning.
+      <span style="display: block; margin-top: 10px;">
+        <a href="#" onclick="expand('sndcatalogue_abstract_snd1105-001'); return false" class="more-less-link">Visa mindre..</a>
+      </span>
+    </div>
+  
+            </div>
+          </div>
+        
+        
+                  <div class="sndcatalogue_row">
+            <div class="sndcatalogue_rowheader">
+              <p>Dataformat / datastruktur:</p>
+            </div>
+            <div class="sndcatalogue_rowtext">
+                                                <div>
+                    <p>Numeriska</p>
+                  </div>
+                                                                <div>
+                    <p>Text</p>
+                  </div>
+                                          </div>
+          </div>
+        
+        
+                  <div class="sndcatalogue_row">
+            <div class="sndcatalogue_rowheader">
+              <p>Datainsamling:</p>
+            </div>
+            <div class="sndcatalogue_rowtext">
+                              <div class="collectionevent">
+      <p><span class="label">Insamlingsmetod:</span> Observation</p>
+      <p>
+    <span class="label">Tidsperiod(er) för datainsamling:</span>
+    1865-01-01
+          &mdash; 1951-12-31
+      </p>
+                        </div>
+                          </div>
+          </div>
+        
+        
+        
+        
+        
+              </div>
+    </div>
+      </div>
+      </div>
+      </div>
+</div>
+  <div id="study_published" style="visibility: hidden;">
+    Katalogposten publicerad: 2019
+  </div>
+
+  </div>
+
+
+  </div>
+  
+  
+</main>
+
+
+</div><!-- page-wrap -->
+
+<div class="responsible-area">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col">
+              </div>
+      <div class="col-2 share-buttons">
+         <span class="share-buttons__label align-middle">Dela:</span>
+         <a href="http://www.facebook.com/sharer.php?s=100&amp;p[url]=https://snd.gu.se/sv/catalogue/study/snd1105/001" class="share-button share-button--facebook" target="_blank" rel="noopener noreferrer" title="Dela på Facebook"></a>
+         <a href="https://twitter.com/intent/tweet?url=https://snd.gu.se/sv/catalogue/study/snd1105/001" class="share-button share-button--twitter" target="_blank" rel="noopener noreferrer" title="Dela på Twitter"></a>
+         <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://snd.gu.se/sv/catalogue/study/snd1105/001" class="share-button share-button--linkedin" target="_blank" rel="noopener noreferrer" title="Dela på LinkedIn"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+                    <div>
+    
+<div id="block-footer-shortcuts" class="block">
+  
+      <h2 class="block__title">Om SND</h2>
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><strong>Svensk nationell datatjänst drivs av ett konsortium som består av:</strong></p>
+
+<p><a href="https://www.gu.se/" rel="nofollow">Göteborgs universitet</a><br /><a href="https://ki.se/" rel="nofollow">Karolinska Institutet</a><br /><a href="https://www.lu.se/" rel="nofollow">Lunds universitet</a><br /><a href="https://www.su.se/" rel="nofollow">Stockholms universitet</a><br /><a href="https://www.slu.se/" rel="nofollow">Sveriges lantbruksuniversitet</a><br /><a href="https://www.umu.se/" rel="nofollow">Umeå universitet</a><br /><a href="https://www.uu.se/" rel="nofollow">Uppsala universitet</a></p>
+</div>
+      
+  </div>
+
+  </div>
+
+              </div>
+      <div class="col-md-6">
+                    <div>
+    
+<div id="block-footer-partners" class="block">
+  
+      <h2 class="block__title">Samarbetspartners</h2>
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row">
+<div class="col-4">
+<p><a rel="nofollow" href="http://www.ddialliance.org/">DDI</a><br /><a rel="nofollow" href="http://doi.org/10.17616/R3CS38">Re3data</a><br /><a rel="nofollow" href="https://www.datacite.org/">DataCite</a><br /><a rel="nofollow" href="https://sweclarin.se/">Swe-Clarin</a></p>
+</div>
+
+<div class="col-6">
+<p><a rel="nofollow" href="https://ecds.se/">Environment Climate Data Sweden</a><br /><a rel="nofollow" href="https://nbis.se/">National Bioinformatics Infrastructure Sweden</a><br /><a rel="nofollow" href="http://www.registerforskning.se/">Registerforskning.se</a></p>
+</div>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+              </div>
+
+      <div class="col-md-3">
+                    <div>
+    
+<div id="block-footer-contact" class="block">
+  
+    
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a class="footer-a" href="/sv/om-webbplatsen">Om webbplatsen</a><br /><a class="footer-a" href="/sv/integritetspolicy">Integritetspolicy</a></p>
+
+<p>SND, Göteborgs universitet<br />
+Box 463, 405 30 Göteborg<br />
+tel. 031-786 10 00<br /><a class="footer-a" href="mailto:snd@gu.se">snd@gu.se</a></p>
+
+<p class="footer-twitter"><a class="footer-a" href="https://www.twitter.com/sndSweden">SND på Twitter</a></p>
+
+<p class="footer-twitter"><a class="footer-a" href="https://se.linkedin.com/company/svensk-nationell-datatj%C3%A4nst" target="_blank">SND på LinkedIn</a></p>
+</div>
+      
+  </div>
+
+  </div>
+
+              </div>
+    </div>
+  </div>
+</footer>
+
+<!-- BEGIN Old browser message -->
+<div style="display:none">
+
+  <input type="hidden" value="Your browser is outdated. Some features on this site will not work for you." id="old-browser-message-text">
+  <input type="hidden" value="Click to hide" id="old-browser-close-text">
+
+  <!--[if lte IE 9]>
+    <script src="/themes/snd/scripts/old-browser.js"></script>
+  <![endif]-->
+
+</div>
+<!-- END Old browser message -->
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"sv\/","currentPath":"catalogue\/study\/snd1105\/001","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"sv"},"pluralDelimiter":"\u0003","eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n    \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n            \u003Cp\u003EP\u00e5 snd.gu.se anv\u00e4nder vi cookies f\u00f6r att webbplatsen ska fungera p\u00e5 ett bra s\u00e4tt f\u00f6r dig.\u003C\/p\u003E\u003Cp\u003EGenom att surfa vidare godk\u00e4nner du att vi anv\u00e4nder kakor.\u003C\/p\u003E\n        \u003C\/div\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-agree-button\u0022\u003EOk, jag f\u00f6rst\u00e5r\u003C\/button\u003E\n                    \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n    \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n            \n        \u003C\/div\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-agree-button\u0022\u003EOk, jag f\u00f6rst\u00e5r\u003C\/button\u003E\n                    \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1,"popup_link":"https:\/\/snd.gu.se\/sv\/om-webbplatsen","popup_link_new_window":true,"popup_position":false,"fixed_top_position":false,"popup_language":"sv","store_consent":true,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003E\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003E\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"snd":{"selected_dataset":"snd1105-001"},"csrfToken":"n1IvGMV0FJfaQQ_JQDwn-q-Jh6rOM0a9oWnrx6Sl-aQ","user":{"uid":0,"permissionsHash":"73c913f4313d112e6b389dc29a0cbac815ab878ea89f867510fd82c2f22ecf72"}}</script>
+<script src="/sites/default/files/js/js_cs3tVtiB7ZA-RMpzB1wAfiDBf20XTTsSpvYbDBzG1wc.js"></script>
+
+  </body>
+</html>

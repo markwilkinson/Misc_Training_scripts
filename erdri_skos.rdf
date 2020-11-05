@@ -1,0 +1,62 @@
+@prefix ns3:	<http://www.orpha.net/ORDO/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> a skos:ConceptScheme;
+  dct:description "SKOS Concept Scheme for the ERDRI Rare Diease Database"@en;
+  dct:title "SKOS Concept Scheme for the ERDRI Rare Diease Database"@en;
+  skos:hasTopConcept ns3:Orphanet_182090 , 
+ns3:Orphanet_275766 , 
+ns3:Orphanet_275777 , 
+ns3:Orphanet_275786 , 
+ns3:Orphanet_275791 , 
+ns3:Orphanet_275798 , 
+ns3:Orphanet_275803 , 
+ns3:Orphanet_275808 , 
+ns3:Orphanet_275813 , 
+ns3:Orphanet_275823 , 
+ns3:Orphanet_275828 , 
+ns3:Orphanet_275837 , 
+ns3:Orphanet_275844 , 
+ns3:Orphanet_422 , 
+ns3:Orphanet_431353 , 
+ns3:Orphanet_70591 , 
+ns3:Orphanet_71198 .
+
+<ns3:Orphanet_182090> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275766> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275777> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275786> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275791> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275798> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275803> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275808> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275813> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275823> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275828> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275837> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_275844> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_422> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_431353> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_70591> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+<ns3:Orphanet_71198> a skos:Concept ;
+  skos:topConceptOf <http://ejprd.fair-dtls.surf-hosted.nl:8890/DAV/home/LDP/EJP/erdri_skos.rdf> .
+
+

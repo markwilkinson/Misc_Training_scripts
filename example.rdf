@@ -1,0 +1,36 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ldp:	<http://www.w3.org/ns/ldp#> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns3:	<http://www.w3.org/ns/posix/stat#> .
+@prefix ns4:	<http://purl.org/dc/dcmitype/> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix ns7:	<http://vocab.ox.ac.uk/projectfunding#> .
+@prefix ns8:	<http://www.w3.org/ns/dcat#> .
+@prefix ns9:	<https://ring.ciard.net/> .
+@prefix ns10:	<http://purl.org/dc/terms/> .
+
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/pest_skos.rdf>
+	rdf:type	ldp:Container , rdfs:Resource , ldp:Resource ;
+	ns3:mtime	1574349056 ;
+	ns3:size	4162 .
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/test/>
+	rdf:type	ldp:BasicContainer , ldp:Container .
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/test2/>
+	rdf:type	ldp:BasicContainer , ldp:Container .
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/285525/>
+	rdf:type	ldp:BasicContainer , ldp:Container , ns4:Distribution .
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/>
+	rdf:type	ldp:BasicContainer , ldp:Container , ns4:Dataset ;
+	dc:title	"A subset of the database of bio-ecological information on non-target arthropod species"@en ;
+	dc:identifier	"10.5281/zenodo.285525"^^xsd:float ;
+	ldp:contains	<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/pest_skos.rdf> , <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/test/> , <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/test2/> , <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/285525/> , <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/14e71098ba9c9419> ;
+	ns7:hasPrincipalInvestigator	"Romeis, J\u00F6rg"@en , "Riedel, Judith"@en , "Meissle, Michael"@en ;
+	ns8:landingPage	ns9:update-and-expansion-database-bio-ecological-information-non-target-arthropod-species , <https://zenodo.org/record/285525> , <http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/> ;
+	dc:creator	<http://wilkinsonlab.info> ;
+	ns8:distribution	<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/285525/> ;
+	ns10:title	"A subset of the database of bio-ecological information on non-target arthropod species"@en .
+<http://training.fairdata.solutions/DAV/home/LDP/fair/grazing/14e71098ba9c9419>
+	rdf:type	rdfs:Resource , ldp:Resource ;
+	ns3:mtime	1574349251 ;
+	ns3:size	0 .
